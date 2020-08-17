@@ -1,0 +1,9 @@
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\bin\Debug\netstandard2.0\TTDataAccessLibraryXX.deps.json
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\bin\Debug\netstandard2.0\TTDataAccessLibraryXX.dll
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\bin\Debug\netstandard2.0\TTDataAccessLibraryXX.pdb
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.csprojAssemblyReference.cache
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.csproj.CoreCompileInputs.cache
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.AssemblyInfoInputs.cache
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.AssemblyInfo.cs
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.dll
+C:\Users\krzysiek\source\repos\TechnicalTask\TTDataAccessLibrary\obj\Debug\netstandard2.0\TTDataAccessLibraryXX.pdb
